@@ -11,15 +11,15 @@
 
 - 🎉 View my achievements [On my Hall of Fame](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/achievements)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/projects](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/projects)
+- 👨‍💻 All of my projects are available at [My projects](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/projects)
 
-- 📝 I regularly write articles on [https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/blogs](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/blogs)
+- 📝 I regularly write articles on [My personal blogs](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/blogs)
 
 - 💬 Ask me about **Codes, Computer related problems etc.**
 
 - 📫 How to reach me **mabdullahkhan096@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/experience](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/experience)
+- 📄 Know about my experiences [Here](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/experience)
 
 - ⚡ Fun fact **I like to explore new things and learn from aspects and situations in life.**
 

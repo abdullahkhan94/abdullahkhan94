@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Web developing, Graphics & some other things.**
 
+- 🎉 View my achievements [On my Hall of Fame](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/achievements)
+
 - 👨‍💻 All of my projects are available at [https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/projects](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/projects)
 
 - 📝 I regularly write articles on [https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/blogs](https://sites.google.com/bseee.uiu.ac.bd/mabdullahkhan/blogs)

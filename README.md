@@ -1,4 +1,3 @@
-<img src="https://github.com/AbdullahKhan94/AbdullahKhan94/blob/main/Profile.jpg">
 
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">Today I may be an option but in future I'll be your need.</h3>

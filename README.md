@@ -1,8 +1,17 @@
-
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">Today I may be an option but in future I'll be your need.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkhan94&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhan94" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mabdullahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mabdullahkhan" /> </p>
+
+<center>
+
+<img align = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mabdullahkhan&theme=midnight_purple">
+
+<img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=mabdullahkhan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+
+<img align="right" width="38%" height="20%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullahkhan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+</ceneter>
+
 
 - 🔭 I’m currently working as [National Point of Contact, Bangladesh. Space Generations Advisory Council.](https://spacegeneration.org/regions/asia/bangladesh)
 - 🌱 I’m currently learning **Web developing, Graphics & some other things.**

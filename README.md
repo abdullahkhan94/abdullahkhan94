@@ -2,7 +2,7 @@
 <h3 align="center">Today I may be an option but in future I'll be your need.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabdullahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mabdullahkhan" /> </p>
-
+<p>
 <center>
 
 <img align = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mabdullahkhan&theme=midnight_purple">
@@ -11,8 +11,9 @@
 
 <img align="right" width="38%" height="20%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullahkhan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 
-</ceneter><br>
-
+</ceneter>
+</p>
+<p>
 - 🔭 I’m currently working as [National Point of Contact, Bangladesh. Space Generations Advisory Council.](https://spacegeneration.org/regions/asia/bangladesh)
 - 🌱 I’m currently learning **Web developing, Graphics & some other things.**
 - 🎉 View my achievements [On my Hall of Fame](https://sites.google.com/view/mabdullahkhan/achievements)
@@ -22,7 +23,7 @@
 - 📄 Know about my experiences [Here](https://sites.google.com/view/mabdullahkhan/experience)
 
 - ⚡ Fun fact **I like to explore new things and learn from aspects and situations in life.**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/theabdullahk01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="theabdullahk01" height="30" width="40" /></a>
